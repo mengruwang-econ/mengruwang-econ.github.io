@@ -11,7 +11,7 @@ quantitative, and historical methods to study how geography, institutions,
 and administrative design have shaped long-run political and economic
 development.
 
-## Works in Progress
+## Working Papers
 
 ### Misaligned Boundaries: Border Manipulation in Qing Prefectures
 
@@ -28,6 +28,8 @@ in administrative boundary design between political stability and administrative
 *Draft available upon request.*
 
 ---
+
+## Works in Progress
 
 ### When Peace Made the State: State Capacity in Song China
 
