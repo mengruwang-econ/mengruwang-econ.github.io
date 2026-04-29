@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-header: "Mengru Wang
+header: "Mengru Wang"
 author_profile: true
 redirect_from: 
   - /about/
