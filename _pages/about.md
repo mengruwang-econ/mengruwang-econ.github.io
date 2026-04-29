@@ -22,6 +22,8 @@ working with Professor Laura Alfaro on the economic history of Shanghai's
 Concession Era. I hold an M.A. in Economics from the University of Chicago and bachelor's
 degrees in Economics and Mathematics from Peking University.
 
+You can find my CV [here](/files/CV_Mengru_Wang.pdf).
+
 **Advisor:** [Tuan-Hwee Sng](https://fass.nus.edu.sg/ecs/people/sng-tuan-hwee/)
 
 **Contact:** [mengruwang@u.nus.edu](mailto:mengruwang@u.nus.edu)
