@@ -16,6 +16,6 @@ main:
     
   - title: "CV"
     url: /files/CV_Mengru_Wang.pdf
-    
-  # - title: "CV"
-  #   url: /cv-json/
+  
+  - title: "Others"
+    url: /others/   
