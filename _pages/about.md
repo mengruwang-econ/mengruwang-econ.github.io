@@ -25,8 +25,8 @@ maritime power.
 
 Prior to my PhD, I was a Research Associate at Harvard Business School,
 working with Professor Laura Alfaro on the economic history of Shanghai's
-Concession Era. I hold an M.A. in Economics from the University of Chicago
-and a B.A. in Economics and Mathematics from Peking University.
+Concession Era. I hold an M.A. in Economics from the University of Chicago and bachelor's
+degrees in Economics and Mathematics from Peking University.
 
 **Advisor:** [Tuan-Hwee Sng](https://fass.nus.edu.sg/ecs/people/sng-tuan-hwee/)
 
