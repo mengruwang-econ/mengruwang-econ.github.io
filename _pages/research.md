@@ -25,6 +25,8 @@ this manipulation does not extend to their subordinate prefectures. The results 
 was achieved by reallocating intact prefectures between neighboring provinces. These findings point to a key tradeoff 
 in administrative boundary design between political stability and administrative efficiency.
 
+**Presentations:** NUS Applied Economics Explorations Seminar (2026); The 12th Hong Kong Economic Association Biennial Conference (2026, scheduled).
+
 *Draft available upon request.*
 
 ---
