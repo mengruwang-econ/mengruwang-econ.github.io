@@ -68,5 +68,5 @@ alone could have produced China's developmental trajectory.
 
 Prior to my PhD, I worked as a Research Associate at Harvard Business School
 on *Omnia Juncta in Uno: Foreign Powers and Trademark Protection in Shanghai's
-Concession Era* (with L. Alfaro, C. Steinwender, M. Chen, G. Bao, and J. Hong),
+Concession Era* (L. Alfaro, C. Steinwender, M. Chen, G. Bao, and J. Hong),
 studying how legal institutions shaped firm behavior during the Concession Era.
