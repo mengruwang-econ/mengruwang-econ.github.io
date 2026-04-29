@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 Welcome to my homepage!
 
 I am a PhD candidate in Economics at the National University of Singapore, on the 2026–2027 job market.
