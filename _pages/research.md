@@ -11,64 +11,37 @@ quantitative, and historical methods to study how geography, institutions,
 and administrative design have shaped long-run political and economic
 development.
 
-## Working Papers
+## Job Market Paper
 
-### Misaligned Boundaries: Border Manipulation in Qing Prefectures
+### Boundary Manipulation in Qing China's Administrative Hierarchy
 
-**Abstract:** The strategic manipulation of China’s administrative boundaries has long attracted scholarly attention, 
-yet existing work has focused exclusively on the provincial level. This paper examines the existence of border manipulation 
-in Qing China’s prefectures. I construct 236 hypothetical prefectures based on geographical attributes, 
-measure their misalignment from actual prefectural borders, and compare the results with provincial-level misalignment. 
-The analysis reveals no evidence of systematic manipulation of prefectural borders, as misalignment is largely uniform 
-across the empire with little spatial correlation. Although deliberate misalignment occurs in certain provinces, 
-this manipulation does not extend to their subordinate prefectures. The results also suggest that provincial manipulation 
-was achieved by reallocating intact prefectures between neighboring provinces. These findings point to a key tradeoff 
-in administrative boundary design between political stability and administrative efficiency.
+**Abstract:** How do states draw their administrative boundaries? While geography offers a natural template for administrative division, boundaries are often manipulated to serve political ends. This paper examines boundary manipulation across the administrative hierarchy of Qing China (1644–1911), comparing the provincial and prefectural boundaries of 1820 with hypothetical units constructed from geographical attributes. At the provincial level, I confirm the deliberate manipulation documented in the literature, with the most misaligned provinces lying along the Qinling–Huaihe divide between north and south China. At the prefectural level, I find no evidence of manipulation, as misalignment is spatially diffuse and reflects physiography rather than strategy. The provincial manipulation, moreover, did not penetrate downward, as it operated by reallocating intact prefectures rather than redrawing their boundaries. These findings reveal a tradeoff in boundary design between political stability and administrative efficiency, with the state securing control at the top of the hierarchy while preserving geographical coherence below.
 
-**Presentations:** NUS Applied Economics Explorations Seminar (2026); The 12th Hong Kong Economic Association Biennial Conference (2026, scheduled).
+**Presentations:** The 12th Annual Symposium on Quantitative History (July 2026); The 12th Hong Kong Economic Association Biennial Conference (June 2026); NUS Applied Economics Explorations Seminar (2026).
 
 *Draft available upon request.*
 
 ---
 
-## Works in Progress
+## Working Papers
 
-### When Peace Made the State: State Capacity in Song China
+### When Peace Made the State: Song China in Comparative Perspective
 
-*With Tuan-Hwee Sng and Shengyi Zhang*
+*With Tuan-Hwee Sng and Shengyi Zhang — draft in preparation*
 
-We develop an analytical framework distinguishing command capacity from
-administrative reach to explain why Song China sustained high fiscal and
-governance capacity while the Qing did not. We argue that the tradeoff
-between external defense and internal control shaped divergent institutional
-designs across these two dynasties.
+We model two components of state capacity, fiscal reach and military coordination, and use the model to explain the different institutional choices of Song and Qing China. In our model, the ruler chooses between two administrative structures: an inspectorate, in which middle-tier officials only monitor and handle neither revenue nor troops, and a governorship, in which they collect revenue and command troops but can turn that command against the ruler. We show that the inspectorate raises total tax collection but cannot coordinate military power, while the governorship raises military power at the cost of tax collection. The ruler's choice of administrative structure depends on how he perceives the internal and external threats. A ruler who fears usurpation from within chooses the inspectorate and gives up military capacity, as the Song did; a ruler who needs more deployable power against an external threat chooses the governorship and gives up fiscal reach, as the Qing did. These findings help to explain the paradox of Song China, a state with deep fiscal reach but weak military coordination, as opposed to early modern European states in which fiscal and military capacity reinforced each other.
 
 ---
 
-### Maritime Nations
-
-*With Jesús Fernández-Villaverde, Mark Koyama, Youhong Lin, and Tuan-Hwee Sng*
-
-This project extends the geopolitical simulation framework of
-Fernández-Villaverde et al. (*QJE*, 2023) to incorporate maritime power,
-tracing the westward shift of seafaring dominance — from the eastern
-Mediterranean to the Atlantic — across history.
-
----
+## Work in Progress
 
 ### A Tale of Two Rivers
 
-*With Tuan-Hwee Sng*
-
-We model how the complementarity between northern and southern China
-sustained long-run development. While north China's ecological conditions
-fostered early civilization, south China's agricultural resources enabled
-continued growth once integrated into the central regime. Neither region
-alone could have produced China's developmental trajectory.
+*With Youhong Lin and Tuan-Hwee Sng*
 
 ## Pre-Doctoral Research
 
 Prior to my PhD, I worked as a Research Associate at Harvard Business School
 on *Omnia Juncta in Uno: Foreign Powers and Trademark Protection in Shanghai's
 Concession Era* (L. Alfaro, C. Steinwender, M. Chen, G. Bao, and J. Hong),
-studying how legal institutions shaped firm behavior during the Concession Era.
+studying how legal institutions shaped firm behavior in 20-century Shanghai.
