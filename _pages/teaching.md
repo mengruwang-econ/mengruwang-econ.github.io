@@ -7,6 +7,9 @@ author_profile: true
 
 ## Teaching Assistant
 
+**Ph.D. Math Camp**  
+*NUS Economics Department* — Summer 2026 (taught by faculty from 2026)
+
 **HS2909 — The Rise and Fall and Rise of China**  
 *National University of Singapore*  
 With Prof. Tuan-Hwee Sng — Fall 2025, Spring 2025
