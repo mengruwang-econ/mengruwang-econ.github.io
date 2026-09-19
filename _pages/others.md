@@ -8,14 +8,14 @@ author_profile: true
 ## Academic Service
 
 **Referee**  
-*Explorations in Economic History*; *Economic Systems* (2 reports) — 2024–2026
+*Explorations in Economic History* (2 reports); *Economic Systems* (3 reports) — 2024–2026
 
 **Student Facilitator**  
 The 3rd Conference on New Economic History of China, Shanghai — March 2026
 
 ## Awards and Scholarships
 
-K.R. Chou Scholarship, National University of Singapore — 2025
+K.R. Chou PhD Scholarship in Economics, National University of Singapore — 2025
 
 Research Scholarship, National University of Singapore — 2021–2025
 
