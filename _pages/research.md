@@ -17,7 +17,7 @@ development.
 
 **Abstract:** How do states draw their administrative boundaries? While geography offers a natural template for administrative division, boundaries are often manipulated to serve political ends. This paper examines boundary manipulation across the administrative hierarchy of Qing China (1644–1911), comparing the provincial and prefectural boundaries of 1820 with hypothetical units constructed from geographical attributes. At the provincial level, I confirm the deliberate manipulation documented in the literature, with the most misaligned provinces lying along the Qinling–Huaihe divide between north and south China. At the prefectural level, I find no evidence of manipulation, as misalignment is spatially diffuse and reflects physiography rather than strategy. The provincial manipulation, moreover, did not penetrate downward, as it operated by reallocating intact prefectures rather than redrawing their boundaries. These findings reveal a tradeoff in boundary design between political stability and administrative efficiency, with the state securing control at the top of the hierarchy while preserving geographical coherence below.
 
-**Presentations:** The 12th Annual Symposium on Quantitative History (July 2026); The 12th Hong Kong Economic Association Biennial Conference (June 2026); NUS Applied Economics Explorations Seminar (2026).
+**Presentations:** The 12th Annual Symposium on Quantitative History; The 12th Hong Kong Economic Association Biennial Conference; NUS Applied Economics Explorations Seminar.
 
 *Draft available upon request.*
 
