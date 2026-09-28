@@ -44,4 +44,4 @@ development.
 Prior to my PhD, I worked as a Research Associate at Harvard Business School
 on *Omnia Juncta in Uno: Foreign Powers and Trademark Protection in Shanghai's
 Concession Era* (L. Alfaro, C. Steinwender, M. Chen, G. Bao, and J. Hong),
-studying how legal institutions shaped firm behavior in 20-century Shanghai.
+studying how legal institutions shaped firm behavior in early twentieth-century Shanghai.
